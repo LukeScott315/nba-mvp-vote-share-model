@@ -27,6 +27,6 @@ profiles).
 
 ## Project Notes
 This project was built as a personal sports analytics project to practice data cleaning, regression modeling, backtesting, and interpreting model 
-results in an NBA context. It is not meant to be a definitive MVP formula. Even in the model's misses, we can have interesting takeaways. 
+results in tbe NBA. It is not meant to be a definitive MVP formula. Even in the model's misses, we can have interesting takeaways. 
 
 IMPORTANT: Some cells may take a minute to run because the notebook uses time.sleep between Basketball Reference requests. This is intentional and helps avoid sending requests too quickly while scraping data.
